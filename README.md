@@ -1,12 +1,12 @@
 
 ```text
 
-                                              ██████╗ ██╗   ██╗██╗ ██████╗ ███████╗
-                                              ██╔══██╗██║   ██║██║██╔════╝ ██╔════╝
-                                              ██████╔╝██║   ██║██║██║  ███╗█████╗
-                                              ██╔══██╗██║   ██║██║██║   ██║██╔══╝
-                                              ██║  ██║╚██████╔╝██║╚██████╔╝███████╗
-                                              ╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝ ╚══════╝
+                                              ██████╗  ██╗   ██╗ ██╗ ██████╗   ███████╗
+                                              ██╔══██╗ ██║   ██║ ██║ ██╔════╝  ██╔════╝
+                                              ██████╔╝ ██║   ██║ ██║ ██║  ███╗ █████╗
+                                              ██╔══██╗ ██║   ██║ ██║ ██║   ██║ ██╔══╝
+                                              ██║  ██║ ╚██████╔╝ ██║ ╚██████╔╝ ███████╗
+                                              ╚═╝  ╚═╝  ╚═════╝  ╚═╝ ╚═════╝  ╚══════╝
 
 ```
 
@@ -28,7 +28,7 @@
 
 
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ```
                                                     LANGUAGE    │  STATUS
@@ -42,35 +42,3 @@
 
 ```
 
-## 📈 Activity
-
-
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=hellobs&theme=chartreuse-dark&bg_color=0a0a0a&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hellobs&theme=chartreuse-dark&bg_color=0a0a0a&hide_border=true&area=true" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <samp>
-    <a href="https://github.com/hellobs">[github]</a>
-    ·
-    <a href="https://github.com/hellobs/hellobs/issues">[contact]</a>
-    ·
-    <a href="https://github.com/hellobs?tab=repositories">[repos]</a>
-  </samp>
-</p>
-
----
-
-<p align="center">
-  <samp>
-    <sub>👾 root@hellobs:~$ <strong>exit</strong></sub><br>
-    <sub>Session terminated · <a href="https://github.com/hellobs">reconnect</a></sub>
-  </samp>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hellobs&label=visitors&color=00ff00&style=flat" />
-</p>
