@@ -31,23 +31,16 @@
 ## 🔧 Tech Stack
 
 ```
-  LANGUAGE    │  STATUS
- ─────────────┼─────────────────────
-  Python      │  active
-  C++         │  active
- ─────────────┼─────────────────────
-  TOOLS       │  STATUS
- ─────────────┼───────────
-  Git         │  proficient
+                                                    LANGUAGE    │  STATUS
+                                                   ─────────────┼─────────────────────
+                                                    Python      │  active
+                                                    C++         │  active
+                                                   ─────────────┼─────────────────────
+                                                    TOOLS       │  STATUS
+                                                   ─────────────┼───────────
+                                                    Git         │  proficient
 
 ```
-
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=hellobs&theme=chartreuse-dark&background=0a0a0a&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellobs&theme=chartreuse-dark&background=0a0a0a&hide_border=true" />
-  </a>
-</p>
-
 
 ## 📈 Activity
 
