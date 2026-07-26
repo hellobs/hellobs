@@ -1,15 +1,3 @@
-
-```text
-
-                                              ██████╗  ██╗   ██╗ ██╗ ██████╗   ███████╗
-                                              ██╔══██╗ ██║   ██║ ██║ ██╔════╝  ██╔════╝
-                                              ██████╔╝ ██║   ██║ ██║ ██║  ███╗ █████╗
-                                              ██╔══██╗ ██║   ██║ ██║ ██║   ██║ ██╔══╝
-                                              ██║  ██║ ╚██████╔╝ ██║ ╚██████╔╝ ███████╗
-                                              ╚═╝  ╚═╝  ╚═════╝  ╚═╝ ╚═════╝  ╚══════╝
-
-```
-
 <p align="center">
   <samp>
     [ root@hellobs ~ ]$ <a href="https://github.com/hellobs">cat /etc/passwd</a> | grep -i "whoami"<br>
@@ -25,20 +13,28 @@
 
 ---
 
+# Technical Skills Summary
 
+## Design & Modeling
+- Possess foundational skills in form design and spatial perception; proficient in SolidWorks modeling operations.
+- Familiar with the Unity engine development workflow.
 
+## Mathematics & Logic
+- Systematically studied Advanced Mathematics, Linear Algebra, Probability Theory, and Mathematical Statistics (covering all topics required for the Graduate Entrance Exam Mathematics (Track I)).
+- Acquainted with *Discrete Mathematics* (logic, order theory, graph theory, combinatorics, algebraic systems), capable of supporting logical design for information architecture and workflows.
+- Familiar with data analysis algorithms such as AHP, TOPSIS, and the entropy weight method.
 
-## Tech Stack
+## Programming & Algorithms
+- Proficient in C++ programming, with a solid grasp of object-oriented programming (OOP) principles.
+- Skilled in Python and experienced in GUI development using the Tkinter framework.
+- Mastered fundamental algorithms (sorting, searching, recursion, greedy, backtracking, binary search, etc.) and foundational data structures; possess preliminary abilities in problem abstraction and modeling.
 
-```
-                                                    LANGUAGE    │  STATUS
-                                                   ─────────────┼─────────────────────
-                                                    Python      │  active
-                                                    C++         │  active
-                                                   ─────────────┼─────────────────────
-                                                    TOOLS       │  STATUS
-                                                   ─────────────┼───────────
-                                                    Git         │  proficient
+## Hardware & Embedded Systems
+- Understand basic combinational logic circuit design.
 
-```
+## Engineering & Collaboration
+- Proficient in writing technical documentation with Markdown, with a strong awareness of documentation standards.
+- Experienced in using Git for version control and familiar with collaborative development workflows, including team-based co-development.
+- Familiar with AI agent tools and AI-assisted programming; knowledgeable about configuring remote development environments on Huawei Cloud servers.
+
 
